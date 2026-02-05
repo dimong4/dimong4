@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dmitry and I'm a Machine Learning Engineer</p>
+<p align="left">My name is Dmitry and I'm a AI Research Engineer</p>
 
 ###
 
